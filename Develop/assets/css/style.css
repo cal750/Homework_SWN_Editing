@@ -1,3 +1,5 @@
+/* general */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -7,6 +9,8 @@
 body {
     background-color: #d9dcd6;
 }
+
+/* HEADER */
 
 header {
     padding: 20px;
@@ -50,6 +54,8 @@ p {
     font-size: 16px;
 }
 
+/* The main image  */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -86,6 +92,8 @@ p {
     background-color: #2589bd;
 }
 
+/* Sizing and ordering */
+
 .margin-boxes {
     margin-bottom: 32px;
     color: #ffffff;
@@ -101,6 +109,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Large pictures */
 
 .main-boxes {
     margin-bottom: 20px;
@@ -119,6 +129,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* Footer */
 
 .footer {
     padding: 30px;
