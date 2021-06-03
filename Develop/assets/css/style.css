@@ -82,7 +82,6 @@ p {
     float: right;
     width: 20%;
     height: 100%;
-    max-height: 940px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
@@ -92,12 +91,12 @@ p {
     color: #ffffff;
 }
 
-.margin-box h3 {
+.benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.margin-box img {
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
